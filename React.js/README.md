@@ -1,3 +1,4 @@
 # React
 
-- [기초](기초.md)
+- [Basics](react-basics.md)]
+- [JSX](jsx.md)
