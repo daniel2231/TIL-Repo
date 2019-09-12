@@ -13,3 +13,4 @@ This is my TIL repo. I will write in both english and korean (depending on my mo
 ## List
 - [React](React.js/README.md)
 - [Node.js](Node.js/README.md)
+- [JavaScript](JavaScript/README.md)
