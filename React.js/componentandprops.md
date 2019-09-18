@@ -1,4 +1,4 @@
-# Components
+# Components and Props
 
 ## Component Nesting
 
@@ -18,3 +18,4 @@ We should be able to configure a component when it is created.
 3. Create a new file to house this new component - it should have the same name as the component
 4. Create a new component in the new file - paste the JSX into it
 5. Make the new component configurable by using React's 'props' system
+6. Export the component and import it in index.js
