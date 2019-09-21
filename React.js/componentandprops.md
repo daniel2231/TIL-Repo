@@ -19,3 +19,18 @@ We should be able to configure a component when it is created.
 4. Create a new component in the new file - paste the JSX into it
 5. Make the new component configurable by using React's 'props' system
 6. Export the component and import it in index.js
+
+## Props (Properties)
+
+System for passing data from a parent component to a child component.
+
+Goal is to customize or configure a child component.
+
+```JavaScript
+<ComponentName NameofProp = "Value" />
+```
+
+To pass props within component, do this:
+```JavaScript
+<ComponentName>{props.children}</ComponentName>
+```
