@@ -55,3 +55,5 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 13. React takes that JSX and updates content on the screen
 
 ## Conditionally rendering content
+
+We can use if statement to conditionally render content.
