@@ -57,3 +57,4 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 ## Conditionally rendering content
 
 We can use if statement to conditionally render content.
+
