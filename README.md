@@ -16,4 +16,4 @@ This is my TIL repo. I will write in both english and korean (depending on my mo
 - [JavaScript](JavaScript/README.md)
 
 ## Book List
-- [Maintainable JavaScript](Books/MaintainableJavascript.md)
+- [Maintainable JavaScript](Books/MaintainableJavaScript.md)
