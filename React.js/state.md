@@ -58,3 +58,24 @@ ReactDOM.render(<App />, document.querySelector("#root"));
 
 We can use if statement to conditionally render content.
 
+## Component Lifecycle methods
+1. constuctor - good place to do one-time setup
+2. render - avoid doing anything besides returning JSX
+3. **content visible on screen**
+4. componentDidMount - Good place to do data-loading
+5. **sit and wait for updates**
+6. componentDidUpdate - Good place to do more data loading when state/props change
+7. **sit and wait until this component is not longer shown**
+8. componentWillUnmount - Good place to do cleanup (especially for non-react stuff)
+
+## Refactoring state
+```Javascript
+    constructor(props) {
+        super(props);
+
+        this.state = { lat: null };
+```
+Can be changed into:
+```JavaScript
+state = { lat: null };
+```
