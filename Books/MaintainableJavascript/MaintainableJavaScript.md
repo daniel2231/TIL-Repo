@@ -1,6 +1,6 @@
 # Maintainable JavaScript
 
-<image src="./src/mj.jpg" width="250px">
+<image src="../src/mj.jpg" width="250px">
 
 자바스크립트로 개발하면서 코드를 한번씩 볼때마다 "어떻게 하면 더 깔끔하고 읽기 편한 코드를 짤 수 있을까?"라는 생각이 들었다.
 
