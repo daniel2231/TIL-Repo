@@ -14,6 +14,7 @@ This is my TIL repo. I will write in both english and korean (depending on my mo
 - [React](React.js/README.md)
 - [Node.js](Node.js/README.md)
 - [JavaScript](JavaScript/README.md)
+- [C (4개월안에 C언어 배워보기 프로젝트)](https://github.com/daniel2231/C-study)
 
 ## Book List
 - [Maintainable JavaScript](Books/MaintainableJavascript/MaintainableJavaScript.md)
